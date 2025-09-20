@@ -1,0 +1,3 @@
+/home/coordsys/zbx/opencv_project/build/CMakeFiles/ColorSpaceConversion.dir
+/home/coordsys/zbx/opencv_project/build/CMakeFiles/edit_cache.dir
+/home/coordsys/zbx/opencv_project/build/CMakeFiles/rebuild_cache.dir
